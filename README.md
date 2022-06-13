@@ -1,4 +1,4 @@
-# apollo
+# Apollo
 Apollo Oyun Tabanlı Öğrenme Platformu!
 
 
